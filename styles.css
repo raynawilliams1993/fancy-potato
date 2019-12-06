@@ -1,21 +1,49 @@
+
+title {
+   text-align: center;  
+      padding-top: 20px;
+      margin: 1.5;
+}
+
+}
+#img1 { float: left;
+    padding-left: 15px;
+    margin: 1.5;
+}
+#div1 {
+    width: auto;
+    padding-left: 10px;
+    
+}
 h1 {
+    text-align: center;
     color: rgb(123, 114, 201);
     font-size: 24px;
     font-family: Geneva, sans-serif;
     background-color: black;
+    font-width: 20px
 }
 h2 {
+    text-align: center;
     color: rgb(123, 114, 201);
     font-size: 24px;
     font-family: Geneva, sans-serif;
     background-color:black ;
 }
- p {
-    color:whitesmoke;
+#para1 {
+    font-display:whitesmoke;
     font-size: 18px;
     font-family: Geneva, sans-serif;
     background-color:black;
  }
+#para2 {
+    font-display:whitesmoke;
+    font-size: 18px;
+    font-family: Geneva, sans-serif;
+    background-color:black;
+}
 
 
 }
+
+
